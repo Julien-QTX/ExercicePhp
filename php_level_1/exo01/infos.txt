@@ -1,0 +1,13 @@
+Reprenez l'exercice 1.
+Utilisez la méthode POST pour le formulaire
+Transformez contact.html en contact.php
+Redirigez l'utilisateur de contact_traitement.php vers contact.php lorsque le traitement est terminé
+
+Question ? Comment "garder des informations en mémoire", entre les 2 pages
+(lors de la redirection de contact_traitement.php vers contact.php).
+
+1. Avec les paramètres d'URL
+
+2. ?
+
+Essayez les paramètres d'URL lors de la redirection.

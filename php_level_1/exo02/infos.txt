@@ -1,0 +1,9 @@
+Reprenez votre exo01.
+
+Ajoutez un message d'erreur sur la page contact.php lorsque le paramètre d'URL ?error=code_error
+et un message de succès lorsque ?success=1 se trouve dans l'URL
+
+Dans quels cas, une erreur survient ?
+- Si un champ est vide.
+- Si le message est plus long que x caracteres
+- ...

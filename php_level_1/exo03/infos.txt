@@ -1,0 +1,7 @@
+Reprenez les fichiers précédents, continuez à les améliorer.
+
+Dans cette partie 03, nous allons sauvegarder les formulaires recus, en local sur votre ordinateur.
+
+Avec du code php, à chaque réception de formulaire:
+- vérifiez si le dossier 'forms' est existant, sinon créez le.
+- créez un fichier nommé `DATE.json` et remplissez le du contenu du formulaire, au format JSON.

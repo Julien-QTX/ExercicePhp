@@ -1,0 +1,7 @@
+Créez une nouvelle page :
+
+admin.php,
+
+cette dernière contiendra la liste des formulaires enregistrés.
+
+How to ?

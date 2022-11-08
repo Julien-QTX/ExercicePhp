@@ -1,0 +1,13 @@
+Créer une page contact.html qui contiendra un formulaire au format HTML,
+dont l'action sera dirigée sur contact_traitement.php
+dont la méthode sera définie sur GET
+
+L'objectif est de récupérer et d'afficher le contenu du formulaire en PHP sur la page contact_traitement.php.
+
+Le formulaire contiendra différents champs de texte
+- Prénom Nom
+- Email
+- Telephone
+- Message
+
+
